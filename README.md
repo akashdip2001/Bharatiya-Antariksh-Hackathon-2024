@@ -1,5 +1,7 @@
 ![moon_land](img/moon_land.jpg)
 
+## objectives
+
 ```go
 You are an aerospace engineer and you have a deep knowledge on AI and ML.
 I am a mechanical engineer finding a proper and unique and fast processing solution to Automatic detection of craters & boulders from Orbiter High Resolution Camera(OHRC) images using AI/ML techniques.
@@ -18,8 +20,10 @@ Expected Solution / Steps to be followed to achieve the objectives:
 Evaluation Parameters:
 1. Accuracy: Precision of the detected craters/boulders with respect to the actual craters present in the image.
 2. Relevance: Degree to which the detected craters/boulders and associated information match the actual craters.
+```
+## requirement
 
-My requirement to make a ppt with:
+```go
 1.Detailed solution and Approach (250-300 words)
 2. Tools and Technology Used (50 words)
 3. Opportunity should be able to explain the following:
